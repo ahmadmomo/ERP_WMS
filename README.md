@@ -1,2 +1,1 @@
-"# ERP_WMS" 
-"# ERP_WMS" 
+"ERP system for warehouse management"
